@@ -8,3 +8,5 @@
 - [6. feladatsor: Függvények határértéke, folytonossága](A1_6.pdf)
 - [7. feladatsor: Differenciálhányados és a L'Hospital szabály](A1_7.pdf)
 - [8. feladatsor: A deriválás alkalmazásai](A1_8.pdf)
+- [9. feladatsor: A deriválás alkalmazásai II.](A1_9.pdf)
+- [10. feladatsor: Taylor-polinomok](A1_10.pdf)
